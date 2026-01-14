@@ -4,10 +4,11 @@
 - 🌱 Atualmente estou aprendendo introdução à programação.
 - 📫 Contate-me: caldeirajfr@gmail.com
 
-<div>
-  <a href="https://github.com/caldeirajfr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caldeirajfr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caldeirajfr&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+  <a href="https://github.com/caldeirajfr" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caldeirajfr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas"/>
+    <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caldeirajfr&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens"/>
   </a>
 </div>
 
